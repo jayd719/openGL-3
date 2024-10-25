@@ -39,41 +39,34 @@ geometric transformation equations as matrix multiplications, which is the stand
 
 ### Q2.1 Warm up with C++ 
 
-Complete? Yes or No 
-
-<!--If you answer Yes, insert one or more screenshot images to show the completion.-->
-
-![Image caption](images/demo.png){width=90%}
-
-<!-- If No, add a short description to describe the issues encountered.-->
+Complete? Yes 
 
 ### Q2.2 2D transformations 
 
-Complete? Yes or No 
+Complete? Yes
 
 <!--If you answer Yes, insert one or more screenshot images to show the completion.-->
 
-![Image caption](images/demo.png){width=90%}
+![Image caption](images/img4.png){width=90%}
 
 <!-- If No, add a short description to describe the issues encountered.-->
 
 ### Q2.3 3D objects and transformations 
 
-Complete? Yes or No 
+Complete? Yes  
 
 <!--If you answer Yes, insert one or more screenshot images to show the completion.-->
 
-![Image caption](images/demo.png){width=90%}
+![Image caption](images/img5.png){width=90%}
 
 <!-- If No, add a short description to describe the issues encountered.-->
 
 ### Q2.4 Mesh object model 
 
-Complete? Yes or No 
-
+Complete? Yes 
 <!--If you answer Yes, insert one or more screenshot images to show the completion.-->
 
-![Image caption](images/demo.png){width=90%}
+![Image caption](images/img6.png){width=90%}
 
 <!-- If No, add a short description to describe the issues encountered.-->
 
@@ -83,44 +76,44 @@ Complete? Yes or No
 
 ### Q3.1 Create and render cube objects
 
-Complete? Yes or No 
+Complete? Yes
 
 <!--If you answer Yes, insert one or more screenshot images to show the completion. -->
 
-![Image caption](images/demo.png){width=90%}
+![Image caption](images/img8.png){width=90%}
 
 <!--If No, add a short description to describe the issues encountered.-->
 
 
 ### Q3.2 Create and render pyramid object
 
-Complete? Yes or No 
+Complete? Yes  
 
 <!--If you answer Yes, insert one or more screenshot images to show the completion. -->
 
-![Image caption](images/demo.png){width=90%}
+![Image caption](images/img7.png){width=90%}
 
 <!--If No, add a short description to describe the issues encountered.-->
 
 
 ### Q3.3 Create and render house object
 
-Complete? Yes or No 
+Complete? Yes 
 
 <!--If you answer Yes, insert one or more screenshot images to show the completion. -->
 
-![Image caption](images/demo.png){width=90%}
+![Image caption](images/img9.png){width=90%}
 
 <!--If No, add a short description to describe the issues encountered.-->
 
 
 ### Q3.4 MCS transforms
 
-Complete? Yes or No 
+Complete? Yes 
 
 <!--If you answer Yes, insert one or more screenshot images to show the completion. -->
 
-![Image caption](images/demo.png){width=90%}
+![Image caption](images/img10.png){width=90%}
 
 <!--If No, add a short description to describe the issues encountered.-->
 
@@ -131,18 +124,18 @@ Complete? Yes or No
 
 <!--If you answer Yes, insert one or more screenshot images to show the completion. -->
 
-![Image caption](images/demo.png){width=90%}
+![Image caption](images/img11.png){width=90%}
 
 <!--If No, add a short description to describe the issues encountered.-->
 
 
 ### Q3.6 VCS transforms
 
-Complete? Yes or No 
+Complete? Yes
 
 <!--If you answer Yes, insert one or more screenshot images to show the completion. -->
 
-![Image caption](images/demo.png){width=90%}
+![Image caption](images/img12.png){width=90%}
 
 <!--If No, add a short description to describe the issues encountered.-->
 
